@@ -27,6 +27,7 @@ I am self-taught MERN stack developer with a strong background in web developmen
 ### History of Community Engagement:
 -  An active participant of the Tinkerhub tech community
 -  I have worked as an intern in The intern Academy as a we developer to complete a web developwmt project.
+-  Partipant in TinkHerhack 2.0
 
 ### Highly Used Software Tools:
 -  VS code, postman
