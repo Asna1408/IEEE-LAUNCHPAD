@@ -4,12 +4,13 @@ I am self-taught MERN stack developer with a strong background in web developmen
 
 ## My Projects
 
-| Name         | Description                                               | Repo link                                       |
-|--------------|-----------------------------------------------------------|-------------------------------------------------|
-| Senora       | An ecommerce web application build by Mern                |[Github Repo](https://github.com/Asna1408/Senora)|
-| Todo         | An web application to manage your task                    | [Github Repo](https://github.com/Asna1408/todo) |                                     
-| UMS          | An web application For global state mangement using react |                                                 |
-| Olx clone    | Clone of Olx build using firebase and react, nodejs       |                                                 |
+| Name         | Description                                               | Repo link                                       |       Host link                  |
+|--------------|-----------------------------------------------------------|-------------------------------------------------|-------------------------|
+| portfolio    | webiste containing my details build using html,css,javascript|[Github Repo](https://github.com/Asna1408/portfolio)|[Host link](https://asna1408.github.io/portfolio/#hero)         |
+| Senora       | An ecommerce web application build by Mern                |[Github Repo](https://github.com/Asna1408/Senora)|                         |
+| Todo         | A web application to manage your task                    | [Github Repo](https://github.com/Asna1408/todo) |                          |          
+| UMS          | A web application For global state mangement using react |                                                 |                          |
+| Olx clone    | Clone of Olx build using firebase and react, nodejs       |                                                 |                         |
          
 ---
 
